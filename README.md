@@ -1,6 +1,6 @@
 # MiePy_CUDA
 
-**MiePy_CUDA** is a Python module to calculate Mie scattering coefficients (backscatter and extinction coefficient) of spheres by CUDA. The implementation is extremely fast, about 0.045ms/case in large-scale scenarios. The key code is following the procedure in "Absorption and Scattering of Light by Small Particles" by Bohren & Huffman.
+**MiePy_CUDA** is a Python module to calculate Mie scattering coefficients (backscatter and extinction coefficient) of spheres by CUDA. The implementation is extremely fast, about **0.045ms/case** in large-scale scenarios. The implementation is modified by "Absorption and Scattering of Light by Small Particles (Bohren & Huffman)".
 
 ## Preparation
 - CUDA >= 10.2
